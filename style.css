@@ -1,0 +1,15 @@
+.child_abs_2{
+    position: absolute;
+    top: 100px;
+}
+
+.rel-div{
+    position: relative;
+    top: 100px;
+}
+
+.child_rel{
+    position: relative;
+    top: 50px;
+    left: 40px;
+}
